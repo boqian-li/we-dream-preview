@@ -1,0 +1,288 @@
+{
+  "version": 3,
+  "pretraining": {
+    "metric": "hours",
+    "approximate": false,
+    "source_label": "Final paper · Appendix I, Tables III, VI and VII",
+    "note": "Duration shares are calculated from processed training frame counts at 30 Hz after adjacent-frame latent-action alignment. Displayed hours are rounded to one decimal place. The 2k / 5k / 10k scale names are nominal; EgoWE subsets are nested with matched recording-session-duration strata.",
+    "sources": [
+      {
+        "id": "egodex",
+        "label": "EgoDex",
+        "color": "#79a9c6",
+        "training_frames": 88736505,
+        "episodes": 325778,
+        "source_label": "Final paper · Table III, latent-action row"
+      },
+      {
+        "id": "egoverse",
+        "label": "EgoVerse",
+        "color": "#8cbbac",
+        "training_frames": 125921805,
+        "episodes": 57134,
+        "source_label": "Final paper · Table VI, latent-action total"
+      },
+      {
+        "id": "egowe",
+        "label": "EgoWE",
+        "color": "#b2a1cf",
+        "training_frames": 869375293,
+        "clips": 96480,
+        "recording_sessions": 17564,
+        "distinct_caption_strings": 89889,
+        "source_resolution": [
+          1280,
+          720
+        ],
+        "source_label": "Final paper · Appendix I-A.3 and Table VII",
+        "note": "Corpus counts describe the complete EgoWE set used in the 10k setting. Each clip has a segment-level English caption. The 5k setting uses a nested subset; its clip and session counts are not specified in the paper."
+      }
+    ],
+    "scales": [
+      {
+        "id": "2k",
+        "label": "2k",
+        "nominal_hours": 2000,
+        "hours": {
+          "egodex": 821.6343055555556,
+          "egoverse": 1165.942638888889,
+          "egowe": 0.0
+        },
+        "frames": {
+          "egodex": 88736505,
+          "egoverse": 125921805,
+          "egowe": 0
+        },
+        "total_frames": 214658310,
+        "total_hours": 1987.5769444444445
+      },
+      {
+        "id": "5k",
+        "label": "5k",
+        "nominal_hours": 5000,
+        "hours": {
+          "egodex": 821.6343055555556,
+          "egoverse": 1165.942638888889,
+          "egowe": 3049.5177777777776
+        },
+        "frames": {
+          "egodex": 88736505,
+          "egoverse": 125921805,
+          "egowe": 329347920
+        },
+        "total_frames": 544006230,
+        "total_hours": 5037.094722222222
+      },
+      {
+        "id": "10k",
+        "label": "10k",
+        "nominal_hours": 10000,
+        "hours": {
+          "egodex": 821.6343055555556,
+          "egoverse": 1165.942638888889,
+          "egowe": 8049.771231481482
+        },
+        "frames": {
+          "egodex": 88736505,
+          "egoverse": 125921805,
+          "egowe": 869375293
+        },
+        "total_frames": 1084033603,
+        "total_hours": 10037.348175925927
+      }
+    ],
+    "fps": 30
+  },
+  "posttraining": {
+    "metric": "hours",
+    "approximate": true,
+    "source_label": "Final paper · Table IX",
+    "hours": 5.07,
+    "families": 9,
+    "instructions": 53,
+    "note": "Robot post-training duration and instruction counts from Table IX. Task hours are rounded independently. Preview footage provenance is recorded separately in media_snapshot.",
+    "items": [
+      {
+        "id": "pick-place",
+        "label": "Pick & place",
+        "color": "#79a9c6",
+        "instructions": 4,
+        "clip_id": "g1-pov-pick-place",
+        "hours": 0.43
+      },
+      {
+        "id": "chair",
+        "label": "Push a chair",
+        "color": "#8cbbac",
+        "instructions": 3,
+        "clip_id": "g1-pov-chair",
+        "hours": 0.19
+      },
+      {
+        "id": "pillow",
+        "label": "Arrange a pillow",
+        "color": "#b2a1cf",
+        "instructions": 8,
+        "clip_id": "g1-pov-pillow",
+        "hours": 1.36
+      },
+      {
+        "id": "clothes",
+        "label": "Collect clothes",
+        "color": "#d3a7bb",
+        "instructions": 8,
+        "clip_id": "g1-pov-clothes",
+        "hours": 0.62
+      },
+      {
+        "id": "rubbish",
+        "label": "Dispose of rubbish",
+        "color": "#cfb788",
+        "instructions": 8,
+        "clip_id": "g1-pov-rubbish",
+        "hours": 0.28
+      },
+      {
+        "id": "shoes",
+        "label": "Retrieve shoes",
+        "color": "#81adbb",
+        "instructions": 4,
+        "clip_id": "g1-pov-shoes",
+        "hours": 0.41
+      },
+      {
+        "id": "sweep",
+        "label": "Sweep a table",
+        "color": "#a4ba8f",
+        "instructions": 6,
+        "clip_id": "g1-pov-sweep",
+        "hours": 0.71
+      },
+      {
+        "id": "cabinet",
+        "label": "Retrieve from a cabinet",
+        "color": "#c4a391",
+        "instructions": 8,
+        "clip_id": "g1-pov-cabinet",
+        "hours": 0.5
+      },
+      {
+        "id": "drawer",
+        "label": "Store in a drawer",
+        "color": "#92a1c8",
+        "instructions": 4,
+        "clip_id": "g1-pov-drawer",
+        "hours": 0.57
+      }
+    ],
+    "media_snapshot": {
+      "metric": "frames_at_constant_fps",
+      "snapshot_label": "0917 dataset snapshot",
+      "dataset_id": "hliang/g1_sonic_lerobot_0917_neckclean_merged",
+      "revision": "4d39ebb25c950f04d9e5883681819d26170659f4",
+      "source_url": "https://www.modelscope.cn/datasets/hliang/g1_sonic_lerobot_0917_neckclean_merged",
+      "fps": 30,
+      "frames": 547327,
+      "seconds": 18244.233333333334,
+      "hours": 5.0678425925925925,
+      "segments": 563,
+      "instructions": 53,
+      "families": 9,
+      "paper_hours": 5.07,
+      "note": "This public 0917 repository snapshot contains 563 episode segments (not 563 independent demonstrations). Its 547,327 frames at 30 Hz and per-task durations match the final paper’s rounded 5.07 h total and Table IX breakdown.",
+      "method": "Task families are mapped from source_dataset prefixes in meta/merge_manifest.json. Frame counts are summed per family and divided by the constant 30 FPS. All 563 episode indices, task strings and lengths match meta/episodes.jsonl; total frames match meta/info.json.",
+      "items": [
+        {
+          "id": "pick-place",
+          "label": "Pick & place",
+          "color": "#79a9c6",
+          "frames": 45964,
+          "seconds": 1532.1333333333334,
+          "segments": 80,
+          "instructions": 4,
+          "clip_id": "g1-pov-pick-place"
+        },
+        {
+          "id": "chair",
+          "label": "Push a chair",
+          "color": "#8cbbac",
+          "frames": 20462,
+          "seconds": 682.0666666666667,
+          "segments": 30,
+          "instructions": 3,
+          "clip_id": "g1-pov-chair"
+        },
+        {
+          "id": "pillow",
+          "label": "Arrange a pillow",
+          "color": "#b2a1cf",
+          "frames": 147146,
+          "seconds": 4904.866666666667,
+          "segments": 87,
+          "instructions": 8,
+          "clip_id": "g1-pov-pillow"
+        },
+        {
+          "id": "clothes",
+          "label": "Collect clothes",
+          "color": "#d3a7bb",
+          "frames": 67235,
+          "seconds": 2241.1666666666665,
+          "segments": 80,
+          "instructions": 8,
+          "clip_id": "g1-pov-clothes"
+        },
+        {
+          "id": "rubbish",
+          "label": "Dispose of rubbish",
+          "color": "#cfb788",
+          "frames": 30325,
+          "seconds": 1010.8333333333334,
+          "segments": 52,
+          "instructions": 8,
+          "clip_id": "g1-pov-rubbish"
+        },
+        {
+          "id": "shoes",
+          "label": "Retrieve shoes",
+          "color": "#81adbb",
+          "frames": 44431,
+          "seconds": 1481.0333333333333,
+          "segments": 59,
+          "instructions": 4,
+          "clip_id": "g1-pov-shoes"
+        },
+        {
+          "id": "sweep",
+          "label": "Sweep a table",
+          "color": "#a4ba8f",
+          "frames": 76345,
+          "seconds": 2544.8333333333335,
+          "segments": 79,
+          "instructions": 6,
+          "clip_id": "g1-pov-sweep"
+        },
+        {
+          "id": "cabinet",
+          "label": "Retrieve from a cabinet",
+          "color": "#c4a391",
+          "frames": 54167,
+          "seconds": 1805.5666666666666,
+          "segments": 48,
+          "instructions": 8,
+          "clip_id": "g1-pov-cabinet"
+        },
+        {
+          "id": "drawer",
+          "label": "Store in a drawer",
+          "color": "#92a1c8",
+          "frames": 61252,
+          "seconds": 2041.7333333333333,
+          "segments": 48,
+          "instructions": 4,
+          "clip_id": "g1-pov-drawer"
+        }
+      ]
+    }
+  }
+}
