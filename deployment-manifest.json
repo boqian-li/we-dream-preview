@@ -16,6 +16,11 @@
       "sha256": "cde20b25389770ab58c63cd3177685ef54810d2dc8ae83b6abbcaef7a2b0d61c"
     },
     {
+      "path": "app.bundle.e95bc7d5e90c.js",
+      "bytes": 105202,
+      "sha256": "e95bc7d5e90ce013b086706f6a3b8cdd6661b81cdbb9db37bd3e41fdc4daffef"
+    },
+    {
       "path": "assets/apple-touch-icon.png",
       "bytes": 10480,
       "sha256": "552549e2c6d7ce5564c1d64b952a95b06966b6ef135c6e639a8b1b5f3e13b8c4",
@@ -2646,6 +2651,456 @@
       "source": "https://liangheng121.github.io/WE-Dream-web/assets/media/skills/storage.jpg"
     },
     {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/high.m3u8",
+      "bytes": 1262,
+      "sha256": "c095bb04d1663bf4b03b5767b72e00c55e40eb5c722610177cb723833bee4e8d"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/high.mp4",
+      "bytes": 649583,
+      "sha256": "3bceca9d30ffcd068d3005ba6863e911da31e7a0d93516977db3ae639af46439"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/index.m3u8",
+      "bytes": 266,
+      "sha256": "6555d45c1540817bc18fe9dd3ee0fb679cb5a0081b72ab098173d0d143129d6d"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/low.m3u8",
+      "bytes": 1237,
+      "sha256": "79bd5d104b4616b144ada23d2664847adce976f1089049bf7513f6c08825894d"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/low.mp4",
+      "bytes": 252708,
+      "sha256": "1a2cd1e8ce47e765f2fbbeaced46cab97a9e95f15f12932900c97b8fb057cbae"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-bkwmnj-005-s140/poster.webp",
+      "bytes": 12128,
+      "sha256": "db620c26c9b972ae2beedabb6e4193eddb06aa5d0b6e79e55af6a73bf56517ed"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/high.m3u8",
+      "bytes": 1262,
+      "sha256": "e38b7949e2f01335bcb6a6e7c5e8932beb19a21928093d24ab3986dad44ab7ec"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/high.mp4",
+      "bytes": 568552,
+      "sha256": "651ea37f3da2c9176ab071c2f26a13ffafe9cf5ca21179e2a7d55053858e28c1"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/index.m3u8",
+      "bytes": 266,
+      "sha256": "1d816692a41d7e9efe955c70106affb9f2a708671dc4320149defc97fb2892a7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/low.m3u8",
+      "bytes": 1233,
+      "sha256": "59bca34f7dfc51db14a0f584a6175c3624091bceb8d8057be610eb0c9988e0f7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/low.mp4",
+      "bytes": 252410,
+      "sha256": "f1b166bd47d5e751b73f7903af4b440cfc56c74faac66bc1e67d91bf6d6ef190"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-dhbykj-012-s54/poster.webp",
+      "bytes": 7506,
+      "sha256": "2cae43e3c4e3d794620deca0c6f9f2d6bebe753ffebefde0ca43a85267bd7d4a"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/high.m3u8",
+      "bytes": 1263,
+      "sha256": "2fd1e78106d10c8800732c13f5d4f1fa642116dc4f7e4b4b6179b20f0f77d5d8"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/high.mp4",
+      "bytes": 627622,
+      "sha256": "665c87ac259acf8381b7dab4d2e135be62a47bf5d5d295314ac3351a7429dda3"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/index.m3u8",
+      "bytes": 266,
+      "sha256": "2b34dcb44e895b85382c74fa497afc71a6db26240e033fed3c397d098b40c652"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/low.m3u8",
+      "bytes": 1238,
+      "sha256": "0a8308a24dc790ea256922005dcc6c93b8c4c4de2b7067660de75fcfdef04086"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/low.mp4",
+      "bytes": 252797,
+      "sha256": "25f20e4aa5a9b9679ec28be14aaeec2035e74d47315546a92ec29d6621bd5c68"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-hmaehb-005-s258/poster.webp",
+      "bytes": 16004,
+      "sha256": "a3613ab9e9da88cd6843e374613a094293c239e0100ea94dc8e37b4ce5a7eb48"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/high.m3u8",
+      "bytes": 1263,
+      "sha256": "448f9f4fb00008c7ba9b0c374d04fcda8c32e75043e1c2ace0334a6543deb20a"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/high.mp4",
+      "bytes": 665140,
+      "sha256": "f0cf690d81714e8541547572f7b80f72386e3c5021f822a15dbfc928aeb187cc"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/index.m3u8",
+      "bytes": 266,
+      "sha256": "a7f72582a571a859833c13c184f55dd06e210fad76d410af004726d6f5e5837b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/low.m3u8",
+      "bytes": 1238,
+      "sha256": "d0c0d5e66fddfd70d7f95efd44cb476e5590fe5a03c04494da67987da1d8c782"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/low.mp4",
+      "bytes": 253553,
+      "sha256": "4056e527eee0425e86b5a1e705f6c3d6d950a594aaa39abfd17e339ebf79d6c7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-kufhvs-004-s10/poster.webp",
+      "bytes": 18568,
+      "sha256": "6cae64762300459eadc73bfd42e45fa64eb8e304cf74d4da94efc87721840390"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/high.m3u8",
+      "bytes": 1262,
+      "sha256": "3dda09aff9b5505b12bdd2ea42f9d616c0b669bb224a38a501719081e8696ae9"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/high.mp4",
+      "bytes": 549186,
+      "sha256": "583d13d08078ebc3ec1b3c3d11821ad2481e3a4b95ecf6d4365169ca524c2ab1"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/index.m3u8",
+      "bytes": 266,
+      "sha256": "c21aedf385875881a21fe526ce6c63de6a954575c0318834f4f3a9722b6148e2"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/low.m3u8",
+      "bytes": 1235,
+      "sha256": "cc238db158aa0091e718ccd6c570d36d63dfd8eb5332352c09e0864ca4864ffd"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/low.mp4",
+      "bytes": 252359,
+      "sha256": "e46de6207dfe08d55e19f0fbc2767e052ad73f31259e683af5bc939da92eac4b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-seupev-013-s65/poster.webp",
+      "bytes": 8370,
+      "sha256": "de4dee7125f4d74e964975b02a1cfbf812aa6a384ffec31b5f251e4dbb65b864"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/high.m3u8",
+      "bytes": 805,
+      "sha256": "f0fd63954162cba29badb985ee6df6e0d6ab217e2d8cfd7cf81fd88413687409"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/high.mp4",
+      "bytes": 233634,
+      "sha256": "218c1ddee18e49a7b1973594ca7df4ff1b01b927af97fbee3e256b3ed0f8ea93"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/index.m3u8",
+      "bytes": 265,
+      "sha256": "23e785152219058971658926a4832ec98c28380f12368bb80da673e4558b864b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/low.m3u8",
+      "bytes": 784,
+      "sha256": "92b094588fe6d38d85f546eef95d3ebb5fa01c715a268292f22899a2e1a3ae41"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/low.mp4",
+      "bytes": 116759,
+      "sha256": "47d8d0c9804c8e85d6223e8cb4967921a94cf8f0de163b14f3599f74e28ca987"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-ugxvvh-008-s226/poster.webp",
+      "bytes": 5418,
+      "sha256": "9923cafc375c9e2ba015404d04d97ce61091e5218047c06d938e623e1e3659b1"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/high.m3u8",
+      "bytes": 1261,
+      "sha256": "04a907a77f6246aaf7233f9d1e3e2db0f4cb87b375092bae87034c43defac633"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/high.mp4",
+      "bytes": 468646,
+      "sha256": "1b5211a83d76c2cb4f805c6af13c5b90f860b65e6cf9abba4ea8e99b46c5dfb7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/index.m3u8",
+      "bytes": 265,
+      "sha256": "6783657744a663c4879121266ea5cffe7147403c6c0abafee8e250ff9d0dfae5"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/low.m3u8",
+      "bytes": 1230,
+      "sha256": "129c211388b47a764de8aa1c7a3bba19e1b9611846e5b8d581175a05c6f20815"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/low.mp4",
+      "bytes": 209652,
+      "sha256": "8a56f3a4ac58de5bfcd467824e5f9349294a188878739c4ed6535ef38d8e36a3"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-wkzzbu-006-s100/poster.webp",
+      "bytes": 9838,
+      "sha256": "e1b5fb12dcf9c50aef431fd65d450e5ff2361c1c1acd27d43dac9b2ecf3537ca"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/high.m3u8",
+      "bytes": 1262,
+      "sha256": "16dc7e7b3a72ea72ebab01852b0ed72eee81aa31b2ed23c983415723b213c304"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/high.mp4",
+      "bytes": 664680,
+      "sha256": "54ad068d717d815ed7b3bae3cdcc3c5bc994c1791ed52e576da4962a3d676e96"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/index.m3u8",
+      "bytes": 266,
+      "sha256": "a6711d9274602b36724443be2cd92f213b24f371b5171bf39916553d92cf0cd5"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/low.m3u8",
+      "bytes": 1238,
+      "sha256": "4fbedb2d5c3c5a98ba1800a0b05a9692e0f996bf75854440bec218ea6e71f84b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/low.mp4",
+      "bytes": 253224,
+      "sha256": "1d9678b6705afa89806c348aeb8952b36ca4a00a38803d7bd5138d5b43fa745c"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zfrkug-002-s235/poster.webp",
+      "bytes": 17428,
+      "sha256": "083724c5357c061653e05233dee9e8475e59de6e579e9d06f4d61e1eef7a00f3"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/high.m3u8",
+      "bytes": 1263,
+      "sha256": "31aa1a01633ee08b7ccfcfff679faaf564666c6da3c4e821327975ee3b50dad5"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/high.mp4",
+      "bytes": 665972,
+      "sha256": "3ba3844589b36dc5dac562d1332f733df74046e10df229bf541cceecd37e15fd"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/index.m3u8",
+      "bytes": 266,
+      "sha256": "fc1ccc259813bc17a6b1ef87d8773a3a553d765892bf336f3aab11ca9268905e"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/low.m3u8",
+      "bytes": 1238,
+      "sha256": "337786e17c9acaeebf8c9b76bd3a44df2b7fd31088b744e31ea0635a06425276"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/low.mp4",
+      "bytes": 253780,
+      "sha256": "211b642a83917d5691b53cfc934cc1503ed74f1e83b2d7da0213ee0c1a2d7229"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/egowe-zwykus-013-s60/poster.webp",
+      "bytes": 17594,
+      "sha256": "ecfe86d8a3aa03e05688d1fd0a291955bf8860a17219a3ae86e8d4faa69ad4ed"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/high.m3u8",
+      "bytes": 1239,
+      "sha256": "6d475421787b29e00637346029ea9c4f4e7cd8282e1efb4e8997362cb803e3e3"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/high.mp4",
+      "bytes": 4152172,
+      "sha256": "a2e090b2bd400e257e2b350a282acd0ba2df0aa65e8327a97728565737b7549b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/index.m3u8",
+      "bytes": 270,
+      "sha256": "413b7973fe11e44a32dbe815cd0d329dc5eb976b254ed727555a6bf4b7c9aabb"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/low.m3u8",
+      "bytes": 1185,
+      "sha256": "ff41698886c04c82d4bf5ac2d2dd66072dd44f3a5c56b9ec61943eded4eb17fb"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/low.mp4",
+      "bytes": 394596,
+      "sha256": "73ce8f927b24ce6b5c151f23b2f16b8aca7b94d851cbd8660d07840baf4d4546"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cabinet/poster.webp",
+      "bytes": 16060,
+      "sha256": "5558997b9928666b8c58032864a55ca15545ef5578095934f84636a3b207f53b"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/high.m3u8",
+      "bytes": 1062,
+      "sha256": "ad7fb741ac5fed9d3a2bcd52f60f3433117a94769770900740106e31339ada49"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/high.mp4",
+      "bytes": 3439947,
+      "sha256": "c3dc6bf032a2eca0e692b2d42b85510e341dfb6773fa09decf361bfc7e917938"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/index.m3u8",
+      "bytes": 270,
+      "sha256": "30c357584058c8b19ae33508a09eed2222f34e354b00fc51d355050aa94365d6"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/low.m3u8",
+      "bytes": 1016,
+      "sha256": "2b9258a83b5e5ef68f27565d2c5b5378ac50437ad3160fd14998285b22f0e138"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/low.mp4",
+      "bytes": 286978,
+      "sha256": "43867b2f04a7cee4a8d4f2448136f278d23ecd7c19fe84ba492b0c695ab39f87"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-cloth/poster.webp",
+      "bytes": 10518,
+      "sha256": "5a8375846f7a54023e3b41ec153843bb0ee97f34f1d64a03a073b1521faed5cf"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/high.m3u8",
+      "bytes": 531,
+      "sha256": "3077902b86b3fbecbe82d4233d501c5ff22f3088e3dc055b60fed3c59d739717"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/high.mp4",
+      "bytes": 1310704,
+      "sha256": "11af9f8ec2ae0c18072b34cf30a2ec9bf8cc4b7736213424ce3eb35f5b703371"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/index.m3u8",
+      "bytes": 270,
+      "sha256": "e30d23e3f61f3fd168e3a49c36f6d245dea7556bffca20c33f27b78b67c66c02"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/low.m3u8",
+      "bytes": 513,
+      "sha256": "6dad35fd208c771ed5a7407ce7a5b45a04e5534692d902fc9cc5cb3ef2152498"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/low.mp4",
+      "bytes": 122899,
+      "sha256": "d527e6e3328bdda3c01bcfa3fc69a00fb6f7819ac939b3feaf7eba285364cd10"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-pnp/poster.webp",
+      "bytes": 13654,
+      "sha256": "9a1d51d44551dc3ac3176d94ecb99c996a1c7cd197470e58634026e78b7fd8f7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/high.m3u8",
+      "bytes": 708,
+      "sha256": "e1c8efc5d6784fdbc1110aeec7b29f0f5233e2d36871d378404d94869c724957"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/high.mp4",
+      "bytes": 2010869,
+      "sha256": "0597e9f58f03590f62e5508225714d678d1a0e9b752b092972611fc7148506f6"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/index.m3u8",
+      "bytes": 270,
+      "sha256": "09650e3c4838d1df2eb395207720d95fdc61438853d85b592dc7e75df70a1521"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/low.m3u8",
+      "bytes": 681,
+      "sha256": "084c33fea752843c43122d7c4583e8b678a56fd32dfc3efb00b7c08074232046"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/low.mp4",
+      "bytes": 189891,
+      "sha256": "fa8ab2eb4c4242ffc9f68fc1b9f425b5d3b246be9379b9012ebb8722ef3c6705"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-rubbish/poster.webp",
+      "bytes": 14300,
+      "sha256": "35d610708078f594c25e9c8d2097d30954378d69c20ad17ead2fc5092ff0a307"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/high.m3u8",
+      "bytes": 472,
+      "sha256": "ff6842ae5e1c963efb2c99a52369368ebca8b1070c4c030c848330dc88c7f75a"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/high.mp4",
+      "bytes": 1189722,
+      "sha256": "b46cf47f5fe5c1ff7c1dae1a85af91d73e4efabe980bc764759d35286505d3ed"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/index.m3u8",
+      "bytes": 270,
+      "sha256": "d5fed47d10df798982fc1839edf55099e68d8ef653be881de30c65d553009e92"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/low.m3u8",
+      "bytes": 457,
+      "sha256": "2771b1ab18b1b284f6d23aa39833bc7cbf73da8c6c4fa3469359b2b7354db0aa"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/low.mp4",
+      "bytes": 93756,
+      "sha256": "db57a41953c7dca5a2d521cff4dcf417eadac0acee509e3928be7eebb42c5aa7"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-shoe/poster.webp",
+      "bytes": 12170,
+      "sha256": "00a7b8d06d0381a5edfd9b816d10ac8b73ec0a927b4853cb1ce98a226d96f59a"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/high.m3u8",
+      "bytes": 472,
+      "sha256": "5f108a4759369747afd95c8badc21bc3a1400b651ffe63cfba5cd9e1e9e23333"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/high.mp4",
+      "bytes": 1194755,
+      "sha256": "d0402f948137fa26b6797643a731d732998570a4f065d80905ebe64b9594adf3"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/index.m3u8",
+      "bytes": 270,
+      "sha256": "6a493e7e5ebaf553e3dddd28e43a7869fabb158e62ab27aa0d13fe288f2d9cc0"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/low.m3u8",
+      "bytes": 457,
+      "sha256": "eb02d0706ec62b51dbe1868d4a8409fe9e14525b29c7dad8b5941c6df028456e"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/low.mp4",
+      "bytes": 102877,
+      "sha256": "387e0d4be5c9d8d9ee7dccbda2ce1da685ac2a202df6a0481d8998d65723c48f"
+    },
+    {
+      "path": "assets/media/small-adaptive-v1/skill-storage/poster.webp",
+      "bytes": 11230,
+      "sha256": "e1da74201d331f9ec4b44687844a214b86940283831d45f2278826cf5e0fd748"
+    },
+    {
       "path": "assets/media/stream1080/1-3S8YYjZ0_imamr7krqrBx0OlvdZ_-VW_start31/index.m3u8",
       "bytes": 2130,
       "sha256": "0c84ce44799b4ad22bad505df93eb4f4ee792b48e30865ec9ebd8ffb00c46b70",
@@ -4367,6 +4822,11 @@
       "sha256": "ee43c0331a0a743876dbd646e8f7eecdd0a726eb16b1788f871e38cac81f93a4"
     },
     {
+      "path": "chunks/chunk-B7FK5IT2.js",
+      "bytes": 275927,
+      "sha256": "12c869e7f57078c7c23daf16bb31e5ed3431433d31a0969398a0dab0ccbb4019"
+    },
+    {
       "path": "chunks/chunk-KKP2Y27T.js",
       "bytes": 5513,
       "sha256": "82bbf740176027e946bdcebc1b270418335692a5293c92d21fcbe397ac773b2e"
@@ -4375,6 +4835,11 @@
       "path": "chunks/dataset-films-IMIWEE7P.js",
       "bytes": 24216,
       "sha256": "032b5654c4ec94400b537c08ab3b19ec5e03d93d49aea8ee3ae3df79035129ff"
+    },
+    {
+      "path": "chunks/dataset-films-L73ALDIJ.js",
+      "bytes": 24753,
+      "sha256": "822834a8ffbde9fbbb6eaaaf2add77dcf842de0289b4788833a286ec576e95c6"
     },
     {
       "path": "chunks/hls.light-2GVQAPBL.js",
@@ -4408,8 +4873,8 @@
     },
     {
       "path": "data/dataset-media.json",
-      "bytes": 127451,
-      "sha256": "973afcd871a9ba9d2c7a8e1925a7643eca683a59e9bf62bca580900afbb66c29"
+      "bytes": 213385,
+      "sha256": "1566818e3a7b1c32ff35ce5d6001ae63f847c5f7140ffc98735289a1e38bce18"
     },
     {
       "path": "data/results-detail.json",
@@ -4423,13 +4888,13 @@
     },
     {
       "path": "data/skill-media.json",
-      "bytes": 13791,
-      "sha256": "ed59b5fb114c70d29ab7469523397d71744b56ac20f98150b7870b5a3df0f170"
+      "bytes": 59932,
+      "sha256": "2466232d90796104b4605f851d768181f341341fc2660b4782accc4032db3db9"
     },
     {
       "path": "index.html",
       "bytes": 115677,
-      "sha256": "69c4b1bdf7bbbf5d894718721ab56daa1934eb4710ec090f0a4ecb93c5fda71d"
+      "sha256": "be1890549a9e6b980fa74c1388d60b8eb8912da191a9966e6c15ab39e4976192"
     },
     {
       "path": "styles.bundle.b9d6fb746576.css",
