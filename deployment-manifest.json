@@ -11,19 +11,14 @@
       "sha256": "f09570a69bc754a0065a0c7b810717c29ccf8fee8b153a836793c08707317af5"
     },
     {
-      "path": "app.bundle.cde20b253897.js",
-      "bytes": 378169,
-      "sha256": "cde20b25389770ab58c63cd3177685ef54810d2dc8ae83b6abbcaef7a2b0d61c"
-    },
-    {
       "path": "app.bundle.d26dce461f1a.js",
       "bytes": 105436,
       "sha256": "d26dce461f1a2ddf403924739c1cc64668ad953f0f875907338ad00859d5c06c"
     },
     {
-      "path": "app.bundle.e95bc7d5e90c.js",
-      "bytes": 105202,
-      "sha256": "e95bc7d5e90ce013b086706f6a3b8cdd6661b81cdbb9db37bd3e41fdc4daffef"
+      "path": "app.bundle.d5fba7a0f016.js",
+      "bytes": 105491,
+      "sha256": "d5fba7a0f016c0f32a177982a8cbb9db86665f6468d485f5dd87d03cd6c06a52"
     },
     {
       "path": "assets/apple-touch-icon.png",
@@ -4837,9 +4832,9 @@
       "sha256": "25da756db4594dd03243a29c254e442d2e13f77f80eda18550e5e18ef2ae83f6"
     },
     {
-      "path": "chunks/chunk-3QR7XAF5.js",
-      "bytes": 2385,
-      "sha256": "ee43c0331a0a743876dbd646e8f7eecdd0a726eb16b1788f871e38cac81f93a4"
+      "path": "assets/social/homepage-a909ae3643b7.jpg",
+      "bytes": 257415,
+      "sha256": "a909ae3643b70779a73589ac2fcca3956b50b9dcecd824f56f36b57d1b794b7a"
     },
     {
       "path": "chunks/chunk-B7FK5IT2.js",
@@ -4852,11 +4847,6 @@
       "sha256": "82bbf740176027e946bdcebc1b270418335692a5293c92d21fcbe397ac773b2e"
     },
     {
-      "path": "chunks/dataset-films-IMIWEE7P.js",
-      "bytes": 24216,
-      "sha256": "032b5654c4ec94400b537c08ab3b19ec5e03d93d49aea8ee3ae3df79035129ff"
-    },
-    {
       "path": "chunks/dataset-films-L73ALDIJ.js",
       "bytes": 24753,
       "sha256": "822834a8ffbde9fbbb6eaaaf2add77dcf842de0289b4788833a286ec576e95c6"
@@ -4865,11 +4855,6 @@
       "path": "chunks/hls.light-2GVQAPBL.js",
       "bytes": 354271,
       "sha256": "ec092e95e2259fbc934ac6d81fc1d32045704a95d9c44a5b61d8e586279a984e"
-    },
-    {
-      "path": "chunks/method-figure-NH2BLCBA.js",
-      "bytes": 35358,
-      "sha256": "a7d4c7e679592cafdcade8086dd00a953a97e49830603e52197c654193253dba"
     },
     {
       "path": "chunks/method-figure-QZ7FLNJR.js",
@@ -4909,7 +4894,7 @@
     {
       "path": "data/site.json",
       "bytes": 390,
-      "sha256": "095ec242ea90cf72a05e401429838778e8188f4ab040ec5b6ae883edc2d64db6"
+      "sha256": "a99da3fb690aea5281bfa7031ea702bf119f3a1306d25dc9f22846565708f6d6"
     },
     {
       "path": "data/skill-media.json",
@@ -4919,7 +4904,7 @@
     {
       "path": "index.html",
       "bytes": 116160,
-      "sha256": "7d9149bd1d4a4c2bba1780df7b8b84b4e58a3b66ed13d4437f4a01cc31e717da"
+      "sha256": "807b980df4c3697ed3f109af3484b44f8a515db2946d3153fd54ab7432646e16"
     },
     {
       "path": "styles.bundle.b9d6fb746576.css",
