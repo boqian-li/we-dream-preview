@@ -11,9 +11,9 @@
       "sha256": "f09570a69bc754a0065a0c7b810717c29ccf8fee8b153a836793c08707317af5"
     },
     {
-      "path": "app.bundle.8bf98493b299.js",
-      "bytes": 375801,
-      "sha256": "8bf98493b299414e7f46f46b47a5c5cba770d45633a0f4ba8a03f036deb512a7"
+      "path": "app.bundle.ed6b5c46390f.js",
+      "bytes": 376144,
+      "sha256": "ed6b5c46390f4703bd3e71161ee5f5443c7e44e4a9d6bfdafdfc7126db3c4381"
     },
     {
       "path": "assets/apple-touch-icon.png",
@@ -4331,7 +4331,7 @@
     {
       "path": "index.html",
       "bytes": 115677,
-      "sha256": "8b5035c05af1b650a6c6e17c734b6ecf19ba2ff69ab893d5636409e12cc5a331"
+      "sha256": "23bd36c410594d7a18456ecf86c146d8d3a97fd2e721bed06eb15d59b4041e42"
     },
     {
       "path": "styles.bundle.b9d6fb746576.css",
