@@ -46,12 +46,16 @@
       "full_source_head_trim": 0.9,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/cabinet.mp4",
-        "poster": "assets/media/skills-preview-v54/cabinet.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-cabinet.mp4",
+        "bytes": 409907,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 17.5,
+        "sha256": "f345d5d6930b3ad8e90ecf7136861365ac7b7e8c5a44adc7d313e5d12bfacb0c",
+        "source_sha256": "cc0ca0122451934e8c46639cab51664672c52df32d9efb3c017cd0adb898f796",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/cabinet.jpg?v=v38"
       }
     },
     "storage": {
@@ -97,12 +101,16 @@
       "full_source_head_trim": 4.75,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/storage.mp4",
-        "poster": "assets/media/skills-preview-v54/storage.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-storage.mp4",
+        "bytes": 107203,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 4.5,
+        "sha256": "7fcb099d5279c1153cf7b41886708f24e928f9439ac0b67f09ebc407f7c2bf57",
+        "source_sha256": "06ce1bc30772873c198bd5accbb02ae3fb0e618f0ac2d66dcafd172820d3a205",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/storage.jpg?v=v38"
       }
     },
     "rubbish": {
@@ -148,12 +156,16 @@
       "full_source_head_trim": 2.9,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/rubbish.mp4",
-        "poster": "assets/media/skills-preview-v54/rubbish.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-rubbish.mp4",
+        "bytes": 201082,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 8.0,
+        "sha256": "547c330c842aa516ca7dade55cbacf89f1ac15c28f74a682ef72928bf899f31d",
+        "source_sha256": "fd901eab2a8bc82263675354a1d35ab93d00d44aa741e1756611f1ccb415eb1a",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/rubbish.jpg?v=v38"
       }
     },
     "shoe": {
@@ -199,12 +211,16 @@
       "full_source_head_trim": 1.65,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/shoe.mp4",
-        "poster": "assets/media/skills-preview-v54/shoe.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-shoe.mp4",
+        "bytes": 103020,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 4.5,
+        "sha256": "989249cc02ed45a08f00af4db451d8fe0124186c18963c441b7ec0209942f15d",
+        "source_sha256": "05a6f21eb6df7f62f0dfa0b36909b808e40d10ceeeec5557fb69eb0e13a45b75",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/shoe.jpg?v=v38"
       }
     },
     "cloth": {
@@ -250,12 +266,16 @@
       "full_source_head_trim": 0.0,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/cloth.mp4",
-        "poster": "assets/media/skills-preview-v54/cloth.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-cloth.mp4",
+        "bytes": 312680,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 14.5,
+        "sha256": "c268f7563c1472c492189092ef30adb61c097d589257fcd18b90ccc4f8b18768",
+        "source_sha256": "8c118db741b17d800213f5003126c3b0e033f9d3cd4829a34113ec5e406f9445",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/cloth.jpg?v=v38"
       }
     },
     "pnp": {
@@ -301,12 +321,16 @@
       "full_source_head_trim": 3.15,
       "codec": "h264",
       "preview": {
-        "src": "assets/media/skills-preview-v54/pnp.mp4",
-        "poster": "assets/media/skills-preview-v54/pnp.jpg?v=v38",
-        "width": 1920,
-        "height": 1080,
-        "fps": 24,
-        "purpose": "Antialiased 1080p rendition shared by stacked and enlarged skill previews."
+        "src": "assets/media/inline-v1/skill-pnp.mp4",
+        "bytes": 120770,
+        "width": 640,
+        "height": 360,
+        "fps": 24.0,
+        "duration": 5.0,
+        "sha256": "67762da2d431c83ce40143aaac617ea79c920ccdf12a188b78f7039799fc28d4",
+        "source_sha256": "87474e9824982980535f8f876ed01a66bbdf4633d10ce738ab643d2b86823ac6",
+        "encoding": "H.264, same frames and duration, resized for inline playback",
+        "poster": "assets/media/skills-preview-v54/pnp.jpg?v=v38"
       }
     }
   }

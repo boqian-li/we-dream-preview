@@ -503,7 +503,19 @@
             "sha256": "558b369620b3f23159ffed72bfe31989ce38fee71cea0c823777974ac748e57e",
             "source_bytes": 1441771,
             "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
-            "has_audio": false
+            "has_audio": false,
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-pack-peppers.mp4",
+              "bytes": 433545,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 11.6,
+              "sha256": "54651cd3c0e86773825402c8c6f4500bb67f9e53db63a72f42b62e0c35e41254",
+              "source_sha256": "558b369620b3f23159ffed72bfe31989ce38fee71cea0c823777974ac748e57e",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-pack-peppers.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-dense-language",
@@ -577,7 +589,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-repair-stove.jpg?v=v38",
             "sha256": "d0707f0a5724b5e49e49ba828f40f18b297dc93befd49bc23cf2afe054040bf6",
             "source_bytes": 810987,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-repair-stove.mp4",
+              "bytes": 236721,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 7.566667,
+              "sha256": "52d82d983894432183413b1e989266de7fec5d318bd624aaef14371c1ce927ac",
+              "source_sha256": "d0707f0a5724b5e49e49ba828f40f18b297dc93befd49bc23cf2afe054040bf6",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-repair-stove.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-prepare-dough",
@@ -620,7 +644,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-dough.jpg?v=v38",
             "sha256": "092e1ad0ceaaa0d190f11e07230447d40b296ce4b89ee6d2ba7eb5ac0de95fd1",
             "source_bytes": 1152949,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-prepare-dough.mp4",
+              "bytes": 353315,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 9.433333,
+              "sha256": "70339bb0f228064f730dabf881d7ab6f35558ab1707b2fca5dd6f512757ba515",
+              "source_sha256": "092e1ad0ceaaa0d190f11e07230447d40b296ce4b89ee6d2ba7eb5ac0de95fd1",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-dough.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-prepare-coffee",
@@ -663,7 +699,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-coffee.jpg?v=v38",
             "sha256": "f02964a3a1e94fa4ba8cfb4262b0ffbab442cff9422f2937ca08bdf7324a65fe",
             "source_bytes": 1557185,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-prepare-coffee.mp4",
+              "bytes": 514663,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 14.0,
+              "sha256": "737ae2d7fe7280840fc24cda58cba2795e8ddecf7db397bc2cd37d4e3615b244",
+              "source_sha256": "f02964a3a1e94fa4ba8cfb4262b0ffbab442cff9422f2937ca08bdf7324a65fe",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-coffee.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-clean-mirror",
@@ -706,7 +754,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-clean-mirror.jpg?v=v38",
             "sha256": "0a8c8c8322278c048aace76e5816f4537e358a0f1bb09ba935025fd3ad41e26f",
             "source_bytes": 969785,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-clean-mirror.mp4",
+              "bytes": 338060,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 14.0,
+              "sha256": "7596e3b5dfb3b5fba2945224f026a0da09b47be32928096b7df8fa64214c40e9",
+              "source_sha256": "0a8c8c8322278c048aace76e5816f4537e358a0f1bb09ba935025fd3ad41e26f",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-clean-mirror.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-iron-clothes",
@@ -749,7 +809,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-iron-clothes.jpg?v=v38",
             "sha256": "1c8eaa30e8f51498d4646db6a426f0e41c6d5c84f1415c3917c7909eac995b86",
             "source_bytes": 1516982,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-iron-clothes.mp4",
+              "bytes": 512080,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 26.266667,
+              "sha256": "e260ddb4993d2caf1ffe6d2c6710c812c6d28a2d7da5afd9cdcf849dd5842f88",
+              "source_sha256": "1c8eaa30e8f51498d4646db6a426f0e41c6d5c84f1415c3917c7909eac995b86",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-iron-clothes.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-organize-fridge",
@@ -792,7 +864,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-organize-fridge.jpg?v=v38",
             "sha256": "31421d65c02cda1881e09f67c2fc19c0b4b4fecfb8477c6098b5f5bbdaec6a40",
             "source_bytes": 1362695,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-organize-fridge.mp4",
+              "bytes": 468041,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 11.8,
+              "sha256": "5b651461fa1e85e3cd65561c55ec24f102097ecf234ec7d826d4e0d01928d7e0",
+              "source_sha256": "31421d65c02cda1881e09f67c2fc19c0b4b4fecfb8477c6098b5f5bbdaec6a40",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-organize-fridge.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-clean-sunglasses",
@@ -835,7 +919,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-clean-sunglasses.jpg?v=v38",
             "sha256": "bbb02587a34707edfd11892352ff207ae1e9b655e1996eb3039cb86734d7e8de",
             "source_bytes": 505768,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-clean-sunglasses.mp4",
+              "bytes": 178752,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 6.366667,
+              "sha256": "153bdeaad16e5896b8f5e4e1a0101bc02736e0896ed1c256fdeef5567c8cdba5",
+              "source_sha256": "bbb02587a34707edfd11892352ff207ae1e9b655e1996eb3039cb86734d7e8de",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-clean-sunglasses.jpg?v=v38"
+            }
           },
           {
             "id": "egoverse-human-prepare-broccoli",
@@ -878,7 +974,19 @@
             "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-broccoli.jpg?v=v38",
             "sha256": "583161b111c6a6846abc015a49be5dad9330037fd2f3a3e20f601a00363d16cd",
             "source_bytes": 624529,
-            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change."
+            "delivery_transformation": "MP4 container relocation only: compressed video packets, frame count, frame timing, dimensions and frame rate are unchanged; no video re-encoding, trimming, crop or speed change.",
+            "preview": {
+              "src": "assets/media/inline-v1/egoverse-egoverse-human-prepare-broccoli.mp4",
+              "bytes": 181226,
+              "width": 480,
+              "height": 270,
+              "fps": 30.0,
+              "duration": 8.1,
+              "sha256": "db369a8ccfe6c945df86867ad8b4eb61351b9d179cab949bbb783e8e7fd8d543",
+              "source_sha256": "583161b111c6a6846abc015a49be5dad9330037fd2f3a3e20f601a00363d16cd",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egoverse/delivery/egoverse-human-prepare-broccoli.jpg?v=v38"
+            }
           }
         ]
       },
@@ -947,6 +1055,18 @@
               "y": 72,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-ugxvvh-008-s226.mp4",
+              "bytes": 194867,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 10.0,
+              "sha256": "391284614e02b4a0adb2b2f420e87a8aad66e64e7e43ec457dcf22e81a097978",
+              "source_sha256": "b9b46b540ba7ff204cc0dcd2ff9dd0d01d8dbe4ebbe6bef11f4adb7ea100f736",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-ugxvvh-008-s226-b16x9-20261108.jpg"
             }
           },
           {
@@ -1004,6 +1124,18 @@
               "y": 108,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-zwykus-013-s60.mp4",
+              "bytes": 611186,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "d142c7893224c5f674fac90120ea34b88e7bb06f664b88b2a9550101aa30e0b3",
+              "source_sha256": "3505df0fed102d04dde9612fdecb5508b32606dfd606091bc023aba435e475c1",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-zwykus-013-s60-b16x9-20261108.jpg"
             }
           },
           {
@@ -1061,6 +1193,18 @@
               "y": 180,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-wkzzbu-006-s100.mp4",
+              "bytes": 388581,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "63f2c8a823bf7359dc2042bb8c5a282ce9b0973135522c16707006ed2ade4700",
+              "source_sha256": "113edef0f24257af7970dacfd36e4a0e87072b03b72f22c0ed3421ea29b3a11e",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-wkzzbu-006-s100-b16x9-20261108.jpg"
             }
           },
           {
@@ -1118,6 +1262,18 @@
               "y": 180,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-dhbykj-012-s54.mp4",
+              "bytes": 479470,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "c4dbae540350b3622570e87672cac5c4660d210f8234013dbd3d723a1d1428ee",
+              "source_sha256": "6bf62db70964fb6d13482b0a3687a2ca584c009dd00dd342a8283e21a5498c09",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-dhbykj-012-s54-b16x9-20261108.jpg"
             }
           },
           {
@@ -1175,6 +1331,18 @@
               "y": 180,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-seupev-013-s65.mp4",
+              "bytes": 458630,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "d847a7598fc857e165f6d675535e389822ebb0ef0538eb6d0ae48e3379c29c17",
+              "source_sha256": "a4bbe86e1b68770e950b1d4ad1d23b7ebc66d103cd905e6606f6c21ac1c1ac61",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-seupev-013-s65-b16x9-20261108.jpg"
             }
           },
           {
@@ -1232,6 +1400,18 @@
               "y": 36,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-bkwmnj-005-s140.mp4",
+              "bytes": 526678,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "bd82376c563edce2ec078556609fc49f3cf474116dce5c3e325d9893a4f4a461",
+              "source_sha256": "a8b856a148ed8db258f96ca5651bda955e1009cb486367dccf72ddec2202c59b",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-bkwmnj-005-s140-b16x9-20261108.jpg"
             }
           },
           {
@@ -1277,6 +1457,18 @@
               "y": 1154,
               "width": 1056,
               "height": 594
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-zfrkug-002-s235.mp4",
+              "bytes": 633862,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "6ceb42655a05f9818071f2f456229a46f73f9b35214d86647b7d2d0f1e2fc285",
+              "source_sha256": "bb7e30155458a6e82157b9d471aaceb691f6474cb1a82ee23d6fbbd95f4996e3",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-zfrkug-002-s235-b16x9-hands20261108.jpg"
             }
           },
           {
@@ -1334,6 +1526,18 @@
               "y": 126,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-hmaehb-005-s258.mp4",
+              "bytes": 500395,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "3dea509630d29110168664fb648a136a370846a71c6e0a1ce613b607a8b6c0ac",
+              "source_sha256": "4f2b414cda18f788c971eae7d0adad301352f46d9228bc4f9abbe401e01b42f9",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-hmaehb-005-s258-b16x9-20261108.jpg"
             }
           },
           {
@@ -1391,6 +1595,18 @@
               "y": 90,
               "width": 960,
               "height": 540
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/egowe-egowe-kufhvs-004-s10.mp4",
+              "bytes": 750672,
+              "width": 480,
+              "height": 270,
+              "fps": 24.0,
+              "duration": 18.0,
+              "sha256": "c12d83b4539f592350a61e26a5ee4fea5bf084a4c74c8ba4f1ba12eb867cacab",
+              "source_sha256": "2831a8f50652dca35988fc7d33f6ad0faa8bd8b50725b87d534bebe82337281a",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/egowe/egowe-kufhvs-004-s10-b16x9-20261108.jpg"
             }
           }
         ]
@@ -1486,6 +1702,18 @@
               "source_dataset": "pick_place_new_1",
               "source_episode_index": 4,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-pick-place.mp4",
+              "bytes": 247607,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 13.366667,
+              "sha256": "09efea1d41b863046b4d0964fa7208b5549c6959b83ec1519838bcc76503aeca",
+              "source_sha256": "19f8dfa4817f59239069fb22bcd7f06a69c8040f746303546c2d09bf32c21df7",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-pick-place.jpg?v=v38"
             }
           },
           {
@@ -1561,6 +1789,18 @@
               "source_dataset": "push_chair_1_0824",
               "source_episode_index": 6,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-chair.mp4",
+              "bytes": 288180,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 14.666667,
+              "sha256": "6dde4883e9265fed00f11f0be8cbe7968d331153281e01ce7b216827b822c0ce",
+              "source_sha256": "0d1371aadc97ea34c67094ba6d4928a09b7606c8ac4547c88b3f35e753fabf91",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-chair.jpg?v=v38"
             }
           },
           {
@@ -1636,6 +1876,18 @@
               "source_dataset": "pick_pillow_new_2",
               "source_episode_index": 0,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-pillow.mp4",
+              "bytes": 727957,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 45.066667,
+              "sha256": "228dcb8e2a7359d04210fde09d158e161285b393ad954e0aec38b6594e613fda",
+              "source_sha256": "cd640ee4638ccab5361837e2cf671b4019261c615e27e94ad7346a31fd2976f5",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-pillow.jpg?v=v38"
             }
           },
           {
@@ -1714,6 +1966,18 @@
               "entire_source_sequence": true,
               "carpet_visible": true,
               "carpet_exception_approved": true
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-clothes.mp4",
+              "bytes": 473927,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 21.166667,
+              "sha256": "1b28977c2a764fb23489f9d85daeb48a778b1c7bf761f2e2a145996458177702",
+              "source_sha256": "d57ba1f77a92b2acc66f31ab039f0deec0e758cab89a5ef805686a8fdbb0360f",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v47/g1-pov-clothes.jpg?v=v38"
             }
           },
           {
@@ -1794,6 +2058,18 @@
               "source_dataset": "throw_rubbish_new_3",
               "source_episode_index": 5,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-rubbish.mp4",
+              "bytes": 535145,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 23.133333,
+              "sha256": "97d718022506b55aded126e1e14ace2b146fcfd2a7fb20fb3eee3e319177b88a",
+              "source_sha256": "992547a86aa04d0f48c4c49524fbc3528cc1479d3869c7a1efadf62673707f4c",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v47/g1-pov-rubbish.jpg?v=v38"
             }
           },
           {
@@ -1869,6 +2145,18 @@
               "source_dataset": "throw_flipper_new_2",
               "source_episode_index": 10,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-shoes.mp4",
+              "bytes": 503123,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 22.0,
+              "sha256": "1cae6c9529019489e927e7461bf4d005a11dabc0e0e29b3cbeef495740bda940",
+              "source_sha256": "4a988804eaeca93e98bbe513e1f86fdb303fc02e3a47ead50cb3ab9f37cd84cc",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-shoes.jpg?v=v38"
             }
           },
           {
@@ -1946,6 +2234,18 @@
               "bimanual": true,
               "entire_source_sequence": true,
               "carpet_visible": false
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-sweep.mp4",
+              "bytes": 493027,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 28.333333,
+              "sha256": "96a51a7e3406349102338b42bd39d58e7c0d0cc6434b362b0d2453dd23bf95e1",
+              "source_sha256": "5bb1659183d7cde8d8c23318441dc1f9f6442c6ceec46f01241b21fe71e103e4",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v47/g1-pov-sweep.jpg?v=v38"
             }
           },
           {
@@ -2021,6 +2321,18 @@
               "source_dataset": "cabinat_7",
               "source_episode_index": 2,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-cabinet.mp4",
+              "bytes": 819496,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 37.9,
+              "sha256": "2bfb4aefa32f6911e86cf72ae1332bd872a77c51ed4734663711b56e618893c6",
+              "source_sha256": "76cb09df44c73c3fb6bf88b9d044598983288a6635d27d411ddcdc80d1a042ef",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-cabinet.jpg?v=v38"
             }
           },
           {
@@ -2096,6 +2408,18 @@
               "source_dataset": "storage_clean_2_0824",
               "source_episode_index": 4,
               "poster_frame_index": 0
+            },
+            "preview": {
+              "src": "assets/media/inline-v1/g1-g1-pov-drawer.mp4",
+              "bytes": 585211,
+              "width": 480,
+              "height": 274,
+              "fps": 30.0,
+              "duration": 28.233333,
+              "sha256": "c81505949f4e475b2553e3630b2960b0128a232a9015c5ab8db9967d65f4a784",
+              "source_sha256": "7dba566c05a042754aa0849c9694ac1bac95297574e988b877ef5410c2308838",
+              "encoding": "H.264, same frames and duration, resized for inline playback",
+              "poster": "assets/media/datasets/g1-pov-v46/g1-pov-drawer.jpg?v=v38"
             }
           }
         ]
