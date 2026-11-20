@@ -16,6 +16,11 @@
       "sha256": "cde20b25389770ab58c63cd3177685ef54810d2dc8ae83b6abbcaef7a2b0d61c"
     },
     {
+      "path": "app.bundle.d26dce461f1a.js",
+      "bytes": 105436,
+      "sha256": "d26dce461f1a2ddf403924739c1cc64668ad953f0f875907338ad00859d5c06c"
+    },
+    {
       "path": "app.bundle.e95bc7d5e90c.js",
       "bytes": 105202,
       "sha256": "e95bc7d5e90ce013b086706f6a3b8cdd6661b81cdbb9db37bd3e41fdc4daffef"
@@ -2421,14 +2426,29 @@
       "sha256": "96a51a7e3406349102338b42bd39d58e7c0d0cc6434b362b0d2453dd23bf95e1"
     },
     {
+      "path": "assets/media/inline-v1/method-execution-poster.webp",
+      "bytes": 11260,
+      "sha256": "c3319ba4c33c9729c9dfa60a8ed4ea61049de3f42c5c5bb5e0a3a1bd82ffb21d"
+    },
+    {
       "path": "assets/media/inline-v1/method-execution.mp4",
       "bytes": 581459,
       "sha256": "c8f303dbe45b6352b170cbbbc4694f367cdab5a69cc04fdf0b2c49645395237c"
     },
     {
+      "path": "assets/media/inline-v1/method-human-poster.webp",
+      "bytes": 18970,
+      "sha256": "4e0f130c58d48527207815e48691ea7137e023c8b890d25c2d807f83acc3af46"
+    },
+    {
       "path": "assets/media/inline-v1/method-human.mp4",
       "bytes": 481086,
       "sha256": "e4687874fca17cdb754100a509d038d33a5915f7a661112cd0d617ee51940dad"
+    },
+    {
+      "path": "assets/media/inline-v1/method-robot-poster.webp",
+      "bytes": 15204,
+      "sha256": "8a898eaf3d4583bdafc58bdd258f8e86e34e57d8cbdb3e92fcc3558f2baeac66"
     },
     {
       "path": "assets/media/inline-v1/method-robot.mp4",
@@ -4852,6 +4872,11 @@
       "sha256": "a7d4c7e679592cafdcade8086dd00a953a97e49830603e52197c654193253dba"
     },
     {
+      "path": "chunks/method-figure-QZ7FLNJR.js",
+      "bytes": 35321,
+      "sha256": "31d777c1a1def3acf6395e84f4ddc0a242fcde52d5bb87032978078bcb5bf92c"
+    },
+    {
       "path": "chunks/results-explorer-276IOZM4.js",
       "bytes": 15813,
       "sha256": "c008a659445b508fb1d8d1cd2685a80e72d3a8db99f2efcfa861b74d73e8a2ef"
@@ -4893,8 +4918,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 115677,
-      "sha256": "be1890549a9e6b980fa74c1388d60b8eb8912da191a9966e6c15ab39e4976192"
+      "bytes": 116160,
+      "sha256": "7d9149bd1d4a4c2bba1780df7b8b84b4e58a3b66ed13d4437f4a01cc31e717da"
     },
     {
       "path": "styles.bundle.b9d6fb746576.css",
